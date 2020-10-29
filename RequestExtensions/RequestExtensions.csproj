@@ -5,7 +5,7 @@
     <PackageId>AO.HttpRequestExtensions</PackageId>
     <Authors>Adam O'Neil</Authors>
     <Product>AO.HttpRequestExtensions</Product>
-    <Description>A couple small methods for deserializing Json from HttpRequests</Description>
+    <Description>A few small methods for deserializing Json from HttpRequests</Description>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <Copyright>Copyright (c) 2020 Adam O'Neil</Copyright>
     <PackageProjectUrl>https://github.com/adamfoneil/RequestExtensions</PackageProjectUrl>

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace AO.Extensions
 {
-    public static class RequestExtensions
+    public static partial class RequestExtensions
     {
         public static async Task<(string Json, T Item)> DeserializeWithJsonAsync<T>(this HttpRequest request)
         {
